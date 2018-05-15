@@ -1,5 +1,5 @@
 mesta
 
-slovenija 	beograd  
+slovenija 	ljubljana
 hrvaška		ljubljana  
 srbija		zagreb
