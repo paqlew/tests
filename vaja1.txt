@@ -1,5 +1,5 @@
 mesta
 
 slovenija 	ljubljana
-hrvaška		ljubljana  
+hrvaška		zagreb    
 srbija		zagreb
