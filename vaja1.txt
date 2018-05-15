@@ -2,4 +2,4 @@ mesta
 
 slovenija 	ljubljana
 hrvaška		zagreb    
-srbija		zagreb
+srbija		beograd
